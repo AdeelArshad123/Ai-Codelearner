@@ -8,13 +8,21 @@
     "start": "next start",
     "lint": "next lint",
     "setup": "node setup-env.js",
-    "test-openai": "node test-openai.js"
+    "test-openai": "node test-openai.js",
+    "test-deepseek": "node test-deepseek.js"
   },
   "dependencies": {
     "@auth/mongodb-adapter": "^3.10.0",
+    "@codemirror/lang-cpp": "^6.0.3",
+    "@codemirror/lang-java": "^6.0.2",
+    "@codemirror/lang-javascript": "^6.2.4",
+    "@codemirror/lang-php": "^6.0.2",
+    "@codemirror/lang-python": "^6.2.1",
+    "@codemirror/lang-rust": "^6.0.2",
     "@monaco-editor/react": "^4.7.0",
     "@types/react": "^18.2.0",
     "@types/react-dom": "^18.2.0",
+    "@uiw/react-codemirror": "^4.24.1",
     "autoprefixer": "^10.4.0",
     "axios": "^1.6.0",
     "dotenv": "^17.2.0",

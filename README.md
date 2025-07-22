@@ -1,4 +1,4 @@
-# 🚀 SaaS Learning Platform
+# AI CodeLearner - SaaS Learning Platform
 
 A modern, AI-powered learning platform for programmers and beginners to learn the latest coding trends, languages, and tools.
 
@@ -27,8 +27,8 @@ A modern, AI-powered learning platform for programmers and beginners to learn th
 ### 1. Clone and Install
 
 ```bash
-git clone <your-repo-url>
-cd saas-learning-platform
+git clone https://github.com/AdeelArshad123/Ai-Codelearner.git
+cd Ai-Codelearner
 npm install
 ```
 
@@ -54,7 +54,7 @@ npm run test-openai
 npm run dev
 ```
 
-Visit [http://localhost:3001](http://localhost:3001) to see your app!
+Visit [http://localhost:3000](http://localhost:3000) to see your app!
 
 ## 🔑 OpenAI API Setup
 
@@ -243,4 +243,4 @@ This project is licensed under the MIT License.
 
 **Happy Learning! 🎉**
 
-Your SaaS Learning Platform is ready to help developers learn and grow! 🚀 
+Your AI CodeLearner Platform is ready to help developers learn and grow! 🚀 
